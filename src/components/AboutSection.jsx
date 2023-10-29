@@ -66,7 +66,7 @@ const AboutSection = () => {
                 <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
                     <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
                     <p className="text-base md:text-lg">
-                        I am a seasoned technology professional of 8 years specializing in Cloud operations, DevOps practices, site reliability and Cloud Security.
+                        I am a seasoned technology professional of 8 years specializing in DevOps practices, site reliability, cloud operations and cybersecurity.
                         I have experience in several CI/CD frameworks, IaC using Terraform, Kubernetes and other hosting solutions in AWS and Azure, Git and other tools. I am a quick learner and I am always looking to expand my knowledge and skill set.
                         I am a team player and I am excited to work with others to scale projects and automate processes.
                     </p>
