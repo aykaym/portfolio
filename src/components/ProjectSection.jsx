@@ -9,7 +9,7 @@ const projectsData = [
         id: 1,
         title: "Portfolio Website",
         description: "Portfolio to showcase professional projects",
-        image: "/images/portfolio.jpg",
+        image: "/images/projects/portfolio.png",
         gitUrl: "https://github.com/aykaym/portfolio",
         previewUrl: "/",
         tag: ["All", "Web"]
@@ -18,7 +18,7 @@ const projectsData = [
         id: 2,
         title: "DocuChat",
         description: "Talk to any pdf file using AI to analyse documents",
-        image: "/images/docuchat.jpg",
+        image: "/images/projects/docuchat.png",
         gitUrl: "https://github.com/aykaym/DocuChat",
         previewUrl: "https://docuchat.battletoadsenthusiast.com",
         tag: ["All", "AI"]
@@ -27,7 +27,7 @@ const projectsData = [
         id: 3,
         title: "Accord",
         description: "Messaging, video and audio capable discord clone. Work In Progress",
-        image: "/images/accord.jpg",
+        image: "/images/projects/accord.png",
         gitUrl: "https://github.com/aykaym/Accord",
         previewUrl: "/",
         tag: ["All", "Web"]
@@ -36,7 +36,7 @@ const projectsData = [
         id: 4,
         title: "Port scanner",
         description: "Lightweight multithreaded port scanner to scan for open ports",
-        image: "/images/portscanner.jpg",
+        image: "/images/projects/portscanner.png",
         gitUrl: "https://github.com/aykaym/portscanner",
         previewUrl: "/",
         tag: ["All", "Utilities"]
@@ -45,7 +45,7 @@ const projectsData = [
         id: 5,
         title: "SSH Bruteforcer",
         description: "Lightweight multithreaded SSH bruter meant to test for default SSH passwords",
-        image: "/images/sshbrute.jpg",
+        image: "/images/projects/sshbrute.png",
         gitUrl: "https://github.com/aykaym/sshbrute",
         previewUrl: "/",
         tag: ["All", "Utilities"]
@@ -54,7 +54,7 @@ const projectsData = [
         id: 6,
         title: "Stock trading tools",
         description: "Rudimentary trading analysis and trading bots experimentation",
-        image: "/images/tradingtools.jpg",
+        image: "/images/projects/tradingtools.png",
         gitUrl: "https://github.com/aykaym/trading_tools",
         previewUrl: "/",
         tag: ["All", "Utilities"]
@@ -63,7 +63,7 @@ const projectsData = [
         id: 7,
         title: "Game Deals Bot",
         description: "Discord bot that reports on new deals on videogames",
-        image: "/images/gamedeals.png",
+        image: "/images/projects/gamedeals.png",
         gitUrl: "https://github.com/aykaym/gamedealsbot",
         previewUrl: "/", 
         tag: ["All", "Utilities"]
@@ -72,7 +72,7 @@ const projectsData = [
         id: 8,
         title: "JackerTracker",
         description: "Remote Administration Tool executable to be run on victim machines to track and dump other payloads",
-        image: "/images/jackertracker.jpg",
+        image: "/images/projects/jackertracker.png",
         gitUrl: "https://gitlab.com/aykay/jackertracker",
         previewUrl: "/",
         tag: ["All", "Web", "Utilities"]
@@ -81,7 +81,7 @@ const projectsData = [
         id: 9,
         title: "TrackerJacker",
         description: "Command and Control server for the JackerTracker project",
-        image: "/images/trackerjacker.jpg",
+        image: "/images/projects/trackerjacker.png",
         gitUrl: "https://gitlab.com/aykay/trackerjacker",
         previewUrl: "/",
         tag: ["All", "Utilities"]
@@ -90,7 +90,7 @@ const projectsData = [
         id: 10,
         title: "Terraform Azure Template",
         description: "Easily stamp out generic Azure architectures with Terrafrom",
-        image: "/images/terraform.jpg",
+        image: "/images/projects/terraform.png",
         gitUrl: "https://gitlab.com/aykay/tf-azure-template",
         previewUrl: "/",
         tag: ["All", "Utilities"]
