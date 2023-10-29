@@ -60,7 +60,8 @@ const AboutSection = () => {
                 <Image 
                     src="/images/aboutme.jpg" 
                     width={600} 
-                    height={600} 
+                    height={600}
+                    alt="About Me"
                     className="top-0"/>
                 <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
                     <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>

@@ -16,7 +16,7 @@ const EmailSection = () => {
             </h5>
             <p className="text-[#ADB7BE] mb-4 max-w-md" >
                 {" "}
-                I'm current on the market for new opportunities, my inbox is always open. Please reach out for business inquires, I will get back with you soon.
+                I&apos;m current on the market for new opportunities, my inbox is always open. Please reach out for business inquires, I will get back with you soon.
             </p>
             <div className="socials flex flex-row gap-2">
                 <Link href="https://github.com/aykaym">
@@ -50,7 +50,7 @@ const EmailSection = () => {
                         name="message"
                         id="message"
                         className="bg-[#18191E] block border-[#33353F] placeholder-[#9CA2A9] text-gray-100 text-sm rounded-lg w-full p-2.5"
-                        placeholder="Let's talk about it..."
+                        placeholder="Let&apos;s talk about it..."
                     />
                 </div>
                 <button
