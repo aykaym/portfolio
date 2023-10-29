@@ -1,7 +1,9 @@
-'use-client'
+'use client'
 import Image from 'next/image'
 import HeroSection from '../components/HeroSection'
+import AboutSection from '../components/AboutSection'
 import Navbar from '../components/Navbar'
+import ProjectSection from '@/components/ProjectSection'
 
 export default function Home() {
   return (
@@ -9,6 +11,8 @@ export default function Home() {
       <Navbar />
       <div className="container mt-28 mx-auto px-12 py-4">
         <HeroSection />
+        <AboutSection />
+        <ProjectSection />
       </div>
     </main>
   )
