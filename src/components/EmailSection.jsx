@@ -50,7 +50,7 @@ const EmailSection = () => {
                         name="message"
                         id="message"
                         className="bg-[#18191E] block border-[#33353F] placeholder-[#9CA2A9] text-gray-100 text-sm rounded-lg w-full p-2.5"
-                        placeholder="Let&apos;s talk about it..."
+                        placeholder="Email doesnt work because its bugged, thanks NextJs 14 :)"
                     />
                 </div>
                 <button
