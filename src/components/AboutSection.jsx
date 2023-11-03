@@ -68,7 +68,7 @@ const AboutSection = () => {
                     <p className="text-base md:text-lg">
                         I am a seasoned technology professional of 8 years specializing in DevOps practices, site reliability, cloud operations and cybersecurity.
                         I have experience in several CI/CD frameworks, IaC using Terraform, Kubernetes and other hosting solutions in AWS and Azure, Git and other tools. I am a quick learner and I am always looking to expand my knowledge and skill set.
-                        I am a team player and I am excited to work with others to scale projects and automate processes. I'm not a very good UI/UX designer though...
+                        I am a team player and I am excited to work with others to scale projects and automate processes. I&apos;m not a very good UI/UX designer though...
                     </p>
                     <div className="flex flex-row mt-8">
                         <TabButton 
