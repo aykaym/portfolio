@@ -71,7 +71,7 @@ const projectsData = [
     {
         id: 8,
         title: "JackerTracker",
-        description: "Remote Administration Tool executable to be run on victim machines to track and dump other payloads",
+        description: "Command and Control server for the JackerTracker project",
         image: "/images/projects/jackertracker.png",
         gitUrl: "https://gitlab.com/aykay/jackertracker",
         previewUrl: "/",
@@ -80,7 +80,7 @@ const projectsData = [
     {
         id: 9,
         title: "TrackerJacker",
-        description: "Command and Control server for the JackerTracker project",
+        description: "Remote Administration Tool written in C# to be run on victim Windows machines to track and dump other payloads",
         image: "/images/projects/trackerjacker.png",
         gitUrl: "https://gitlab.com/aykay/trackerjacker",
         previewUrl: "/",
